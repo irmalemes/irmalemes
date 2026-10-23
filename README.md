@@ -38,6 +38,7 @@ Through academic projects and my professional internship at **ERC ZIPO d.o.o. Sa
 **Version Control:** Git, GitHub, GitLab, Bitbucket  
 **Development Tools:** Android Studio, Docker, Blender  
 **Microsoft Tools:** SharePoint, Azure DevOps, Visual Studio, Visual Studio Code
+**Documentation & Typesetting:** LaTeX, Overleaf
 
 
 ---
