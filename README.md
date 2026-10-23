@@ -25,10 +25,10 @@ Through academic projects and my professional internship at **ERC ZIPO d.o.o. Sa
 
 ## Programming & Development
 
-**Languages:** C++, C#, Java, Kotlin, Python, JavaScript, SQL  
+**Languages:** C++, C#, Java, Kotlin, Python, JavaScript  
 **Development:** Object-Oriented Programming, Web Development, Android Development, Backend Development, Software Design  
 **Frameworks & Technologies:** .NET, Node.js  
-**Databases:** MySQL, Relational Databases
+**Databases:** SQL, MySQL, Relational Databases, Supabase
 
 
 ## Software Engineering & Tools
